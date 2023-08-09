@@ -3,4 +3,4 @@ Breakout Board for the IEEE-CS USF student organization. This board will be used
 
 | FRONT                           | BACK                           |
 | ----------------------------------- | ----------------------------------- |
-| ![cat](https://github.com/akarez/IEEE-CS-ESP32/blob/main/Project%20Outputs/capture_front.png) | ![dog](https://github.com/akarez/IEEE-CS-ESP32/blob/main/Project%20Outputs/capture_back.png) |
+| ![cat](https://github.com/akarez/IEEE-CS-ESP32/blob/main/Project%20Outputs/capture_front.bmp) | ![dog](https://github.com/akarez/IEEE-CS-ESP32/blob/main/Project%20Outputs/capture_back.bmp) |
